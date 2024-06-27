@@ -1,0 +1,14 @@
+ik weet niet of dit ook vermeld moet worden als ik er geen code van heb gebruikt maar wel inspiratie uit heb gehaald, maar just in case. 
+hier heb ik mijn idee van gekregen:
+
+https://skillcrush.com/blog/projects-you-can-do-with-javascript/#tictac
+https://codepen.io/b4rb4tron/pen/wjyXNJ
+
+en 
+
+gebruikt voor controle of wanneer iets even niet werkte.
+https://chat.openai.com/
+
+https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+
+https://www.w3schools.com/js/js_random.asp
